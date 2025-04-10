@@ -15,3 +15,6 @@ provider "aws" {
     s3 = "http://localhost:4566"
   }
 }
+# Comentario añadido para prueba de rebase
+Nueva prueba
+Otra prueba
